@@ -1,6 +1,6 @@
 {
-  "homepage": "https://shuklaneeraj.github.io/portfolio",
-  "name": "portfolio",
+  "homepage": "https://shuklaneeraj.github.io/devportfolio",
+  "name": "devportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
