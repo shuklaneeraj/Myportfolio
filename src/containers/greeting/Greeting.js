@@ -41,11 +41,11 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <a
-                    href={require("./resume.pdf")}
+                    href="https://www.canva.com/design/DAGLIBQDirQ/UCBAl8DYc0HxIkukmDua7g/view?utm_content=DAGLIBQDirQ&utm_campaign=designshare&utm_medium=link&utm_source=editor"
                     download="Resume.pdf"
                     className="download-link-button"
                   >
-                    <Button text="Download my resume" />
+                    <Button text="View my resume" />
                   </a>
                 )}
               </div>
